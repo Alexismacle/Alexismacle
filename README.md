@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate Data Engineer from France</h3>
 
-- 🔭 I’m currently working on my free time on **Portfolio** : [httpsalexis-macle.com](https://alexis-macle.com/)
+- 🔭 I’m currently working on my free time on [**Portfolio**](https://alexis-macle.com/)
 
 - 🌱 I’m currently learning **ML**
 
