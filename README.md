@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A passionate Data Engineer from France</h3>
 
-- 🔭 I’m currently working on my free time on **Portfolio**
+- 🔭 I’m currently working on my free time on **Portfolio** : [httpsalexis-macle.com](https://alexis-macle.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **SQL / Database Managing**
+- 💬 Ask me about **Data Engineering**
 
-- 📫 How to reach me **alexis13macle@gmail.com**
+- 📫 How to reach me **alexis.macle@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
